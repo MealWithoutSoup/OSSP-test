@@ -1,3 +1,3 @@
 # OSSP-test
 
-Pull test
+fetch & merge
