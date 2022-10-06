@@ -1,3 +1,3 @@
 # OSSP-test
 
-pull test
+Fetch & Merge
